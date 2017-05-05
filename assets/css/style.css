@@ -304,20 +304,19 @@ input[type=submit] {
     }
 
   nav {
-      clear: both;
-      float: none;
-      margin-top: 25px;
-      /*margin-left: 19%;*/
-      max-width: 100%;
+      margin-top: 0px;
+      padding: 2%;
       width: 100%;
-      padding: 2% 0;
+      max-width: 600px;
+      margin: 0;
   }
 
   nav a {
-      padding-left: 75px;
-      padding-right: 50px;
+      width:30%;
+      text-align: center;
+      margin: 0;
   }
-
+  
   .container {
       max-width: 640px;
   }
